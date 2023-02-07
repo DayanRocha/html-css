@@ -20,6 +20,7 @@ header h1{
     text-align: center;
     padding-top: 20px;
     margin-bottom: 20px;
+    cursor: pointer;
 }
 
 menu ul {
@@ -32,6 +33,12 @@ menu li {
     color: white;
     display: inline-block;
     padding: 10px;
+}
+
+menu a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
 }
 
 article {
